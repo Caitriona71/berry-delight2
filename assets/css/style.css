@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Lato&display=swap');
+
 .wrapper {
     display: flex;
     flex-flow: row wrap;
@@ -13,7 +15,14 @@
 
 .header {
     background: rgba(233, 149, 121, 1);
-    height: 120px;
+    height: 160px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Kaushan Script', 'Brush Script MT', cursive;
+    color: #fff;
 }
 
 .footer {
