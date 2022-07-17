@@ -20,9 +20,40 @@
 
 h1,
 h2,
-h3 {
+h3,
+p,
+ol {
     font-family: 'Kaushan Script', 'Brush Script MT', cursive;
     color: #fff;
+}
+/* navigation links */
+
+#navigation {
+    font-size: 110%;
+    color:rgba(255, 85, 155, 1);
+
+}
+#navigation li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#navigation a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#navigation, #logo {
+    line-height: 75px;
+}
+
+#navigation a:hover {
+    border-bottom: 1px solid rgba(255, 85, 155, 1);
+}
+
+.active {
+    border-bottom: 1 px solid rgba(255, 85, 155, 1);
 }
 
 .footer {
@@ -39,6 +70,7 @@ h3 {
 
 .aside1 {
     background:  rgb(175, 179, 165);
+    list-style-type: none;
 }
 
 .aside2 {
