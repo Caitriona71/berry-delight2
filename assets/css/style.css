@@ -22,7 +22,6 @@
 h1,
 h2,
 h3,
-p,
 ol,
 aside {
     font-family: 'Kaushan Script', 'Brush Script MT', cursive;
@@ -48,10 +47,6 @@ aside {
     color: inherit;
 }
 
-#navigation {
-
-}
-
 #navigation a:hover {
     border-bottom: 1px solid rgba(255, 85, 155, 1);
 }
@@ -63,8 +58,18 @@ aside {
 .footer {
     background: rgba(233, 149, 121, 1);
     height: 80px;
+    display: inline;
 }
 
+.footer i {
+    font-size: 160%;
+    margin: 1%;
+    color: rgba(46, 2, 48);
+}
+
+.copyright {
+    color: rgba(46, 2, 48);
+}
 .main {
     text-align: center;
     background: rgba(255, 85, 155, 1);
