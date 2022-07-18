@@ -13,145 +13,105 @@
     border-radius: 10px;
 }
 
-#hero-outer {
-    height: 160px;
-    width: 100%;
-    position: relative;
-}
-
 .header {
     background: rgba(233, 149, 121, 1);
-    height: 160px;
+    height: 350px;
     background: url(../images/hero-image.webp) center no-repeat;
+}
 
+h1,
+h2,
+h3,
+p,
+ol,
+aside {
+    font-family: 'Kaushan Script', 'Brush Script MT', cursive;
+    color: #fff;
+}
 
-    /* animation zoom effect on loading page */
-    animation-name: background-image;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
+/* navigation links */
 
-    /* creates the level of zoom for hero-image*/
-    @keyframes background-image {
-        from {
-            transform: scale(1);
-        }
+#navigation {
+    font-size: 110%;
+    color: rgba(255, 85, 155, 1);
+    margin-top: 5px;
+}
 
-        to {
-            transform: scale(1.1);
-        }
-    }
-   
+#navigation li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#navigation a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#navigation {
+
+}
+
+#navigation a:hover {
+    border-bottom: 1px solid rgba(255, 85, 155, 1);
+}
+
+.active {
+    border-bottom: 1 px solid rgba(255, 85, 155, 1);
+}
+
+.footer {
+    background: rgba(233, 149, 121, 1);
+    height: 80px;
+}
+
+.main {
+    text-align: center;
+    background: rgba(255, 85, 155, 1);
+    height: 300px;
+    margin-bottom: 40px;
+    font-size: 24px;
+}
+
+.aside1 {
+    background: rgb(175, 179, 165);
+    list-style-type: none;
+    color: #fff;
+}
+
+.aside2 {
+    background: rgba(46, 2, 48);
+    list-style-type: none;
+    color: #fff;
 }
 
 
 
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-    h1,
-    h2,
-    h3,
-    p,
-    ol {
-        font-family: 'Kaushan Script', 'Brush Script MT', cursive;
-        color: #fff;
-    }
-
-    /* navigation links */
-
-    #navigation {
-        font-size: 110%;
-        color: rgba(255, 85, 155, 1);
-
-    }
-
-    #navigation li {
-        float: right;
-        list-style-type: none;
-        margin-right: 30px;
-    }
-
-    #navigation a {
-        text-decoration: none;
-        color: inherit;
-    }
-
-    #navigation,
-    #logo {
-        line-height: 75px;
-    }
-
-    #navigation a:hover {
-        border-bottom: 1px solid rgba(255, 85, 155, 1);
-    }
-
-    .active {
-        border-bottom: 1 px solid rgba(255, 85, 155, 1);
-    }
-
-    .footer {
-        background: rgba(233, 149, 121, 1);
-        height: 80px;
-    }
-
+@media all and (min-width: 800px) {
     .main {
-        text-align: left;
-        background: rgba(255, 85, 155, 1);
-        background: url(../images/hero-image.webp) no-repeat;
-        background-size: auto;
-        background-repeat: no-repeat;
-        position: relative;
-        height: 300px;
-        margin-bottom: 40px;
-        font-size: 24px;
+        flex: 3;
     }
 
     .aside1 {
-        background: rgb(175, 179, 165);
-        list-style-type: none;
+        order: 1;
     }
 
     .aside2 {
-        background: rgba(46, 2, 48);
+        order: 2;
     }
 
-    @media all and (min-width: 800px) {
-        .main {
-            flex: 3;
-        }
-
-        .aside1 {
-            order: 1;
-        }
-
-        .aside2 {
-            order: 2;
-        }
-
-        .main {
-            order: 2;
-        }
-
-        .footer {
-            order: 4;
-        }
+    .main {
+        order: 2;
     }
 
-    @media all and (min-width: 600px) {
-        .aside {
-            flex: 1;
-
-        }
+    .footer {
+        order: 4;
     }
+}
+
+@media all and (min-width: 600px) {
+    .aside {
+        flex: 1;
+
+    }
+}
