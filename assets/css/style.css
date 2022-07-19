@@ -75,7 +75,8 @@ h3 {
     color:#fff;
     height: 300px;
     margin-bottom: 40px;
-    font-size: large;
+    padding: 10px;
+    font-size: medium;
     list-style-type: none;
 
 }
@@ -93,6 +94,26 @@ h3 {
     color: #fff;
     font-size: large;
 }
+
+input[type=submit] {
+    margin-top: 5px;
+    margin-left: 0.75rem;
+    padding: 0.75rem;
+    background-color: #fff;
+    color:  rgba(46, 2, 48);;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type=text],
+input[type=email],
+input[checkbox] {
+    height: 10px;
+    max-width: 400px;
+    padding: 5px;
+    margin: 0 auto;
+}
+
 
 
 
