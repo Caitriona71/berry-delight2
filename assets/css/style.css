@@ -72,21 +72,26 @@ h3 {
 .main {
     text-align: center;
     background: rgba(255, 85, 155, 1);
+    color:#fff;
     height: 300px;
     margin-bottom: 40px;
-    font-size: 24px;
+    font-size: large;
+    list-style-type: none;
+
 }
 
 .aside1 {
     background: rgb(175, 179, 165);
     list-style-type: none;
     color: #fff;
+    font-size:large;
 }
 
 .aside2 {
     background: rgba(46, 2, 48);
     list-style-type: none;
     color: #fff;
+    font-size: large;
 }
 
 
