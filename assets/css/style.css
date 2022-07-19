@@ -15,15 +15,13 @@
 
 .header {
     background: rgba(233, 149, 121, 1);
-    height: 350px;
+    height: 230px;
     background: url(../images/hero-image.webp) center no-repeat;
 }
 
 h1,
 h2,
-h3,
-ol,
-aside {
+h3 {
     font-family: 'Kaushan Script', 'Brush Script MT', cursive;
     color: #fff;
 }
@@ -70,6 +68,7 @@ aside {
 .copyright {
     color: rgba(46, 2, 48);
 }
+
 .main {
     text-align: center;
     background: rgba(255, 85, 155, 1);
