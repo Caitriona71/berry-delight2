@@ -1,6 +1,7 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-Welcome Caitriona71,
+![(../images/hero-image.webp)]
+PROJECT 1
+Berry Delight
+This is a four-page site showcasing the business of a Frozen Yogurt Parlour. It's aim is to attract users who are searching for frozen yogurt desserts. The home page features our story and our suppliers. The menu page includes the various selection of frozen yogurt desserts, smoothies and drinks available, the contact us page displays a location map, contact details and business opening hours, and the competition page includes a form to fill out for a chance to win a Lego Frozen Yogurt Shop set together with images of the prize.
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
