@@ -1,8 +1,10 @@
-![(../images/hero-image.webp)]
+![Header Image](https://github.com/Caitriona71/berry-delight2/blob/main/assets/images/hero-image.webp)]
 # PROJECT 1 Berry Delight Frozen Yogurt Parlour
 Berry Delight is a site showcasing the business of a Frozen Yogurt Parlour. It's aim is to attract users who are searching for frozen yogurt desserts. The site will be used by users to access the menu, contact details, and competition page.
 
-This is the live site:  
+![] (https://code-institute-room.slack.com/files/U03KMDGF0CU/F03RXF4RSQY/amiresponsive.png)
+
+This is the live site:  [Berry Delight](https://caitriona71.github.io/berry-delight2/)
 
 ## Features
 The home page features information about the business and a list of suppliers. The menu page includes the various selection of frozen yogurt desserts, smoothies and drinks available, the contact us page displays a location map, contact details and business opening hours, and the competition page includes a form to fill out for a chance to win a Lego Frozen Yogurt Shop set, together with images of the prize.
@@ -33,6 +35,19 @@ On this page a location map has been included.  This is not the actual map locat
 
 The last link on the navigation bar is a link to a page which enables the user to fill out a form in order to enter a competition to be in with a chance of winning a Lego Heartland Frozen Yogurt Shop set.  On this page, the user is asked to fill out their name and email address on the form and they are then asked which of the Berry Delight Frozen Yogurts is their favourite.  The form allows them to tick whichever checkbox pertains to their favourite.
 
+## Technologies Used
+
+* HTML5
+* CSS
+
+## Frameworks, Libraries and Programmes Used
+
+* [Google Fonts](https://fonts.google.com)
+* [Font Awesome](https://fontawesome.com)
+* [Gitpod](https://gitpod.io)
+* [GitHub](https://github.com)
+* [Balsamiq](https://balsamiq.com)
+
 ## Future Improvements
 
 * Menu page would need prices included and this page would need to be regularly updated. 
@@ -50,7 +65,11 @@ The last link on the navigation bar is a link to a page which enables the user t
 
 ## Deployment
 
-(Describe the process you went through to deploy the project to GitHub)
+The site was deployed to GitHub pages.  The steps to deploy are as follows:
+
+* In the GitHub repository, click on the Settings tab.
+* From the Source Section drop-down menu, select the Main branch.
+* Once the Main branch has been selected, the page will be refreshed with a detailed ribbon display indicating that the project was successfully deployed.
 
 ## Credits
 
@@ -60,13 +79,15 @@ All names of business and suppliers, and all text content is fictional with the 
 
 Images from png.is, pexels, Pinterest and Lego.
 
-Fonts from Google Fonts
-
-Icons from Font Awesome
-
 Navigation bar - instructions for implementation from Love Running Project, Code Institute
 
 Flexbox Layout from YouTube
+
+## Acknowledgements
+
+My mentor for his feedback. <br>
+Tutor Support at Code Institute. <br>
+My fellow students. <br>
 
 
 
