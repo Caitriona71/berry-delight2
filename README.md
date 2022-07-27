@@ -1,4 +1,4 @@
-![Berry Delight](../images/her-image.webp)
+![Berry Delight](../images/hero-image.webp)
 # PROJECT 1 Berry Delight Frozen Yogurt Parlour
 Berry Delight is a site showcasing the business of a Frozen Yogurt Parlour. It's aim is to attract users who are searching for frozen yogurt desserts. The site will be used by users to access the menu, contact details, and competition page.
 
