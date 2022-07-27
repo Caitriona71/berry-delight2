@@ -13,11 +13,12 @@
     padding: 10px; 
 }
 
-.header {
+.header  {
+    background: rgb(240, 160, 131);
     background: rgba(233, 149, 121, 1);
     background: url(../images/hero-image.webp) center no-repeat;
     border-radius: 10px;
-    height: 170px;
+    padding: 100px 0;
 }
 
 h1,
@@ -30,6 +31,7 @@ h3 {
 /* navigation links */
 
 #navigation {
+    color: rgb(250, 85, 154);
     color: rgba(255, 85, 155, 1);
     font-size: 110%;
     margin-top: 5px;
@@ -57,34 +59,40 @@ h3 {
 }
 
 .footer {
+    background: rgb(240, 160, 131);
     background: rgba(233, 149, 121, 1);
     display: inline;
- 
+    /* position: fixed;
+    bottom: 0;
+    width: 100%; */
 }
 
 .footer i {
+    color: rgb(64, 4, 66);
     color: rgba(46, 2, 48, 1);
     font-size: 160%;
     margin: 1%;
 }
 
 .copyright {
+    color: rgb(64, 4, 66);
     color: rgba(46, 2, 48, 1);
 }
 
 .main {
     background: rgb(250, 85, 154);
     background: rgba(255, 85, 155, 1);
-    color:#fff;
+    color: #fff;
     font-size: medium;
-    height: 300px;
     list-style-type: none;
     margin-bottom: 40px;
-    padding: 10px;
+    min-height: 300px;
     position: relative;
+    text-align: center;
 }
 
 .aside1 {
+    background: rgb(175, 173, 160);
     background: rgba(175, 179, 165, 1);
     color: #fff;
     font-size:large;
@@ -92,6 +100,7 @@ h3 {
 }
 
 .aside2 {
+    background: rgb(64, 4, 66);
     background: rgba(46, 2, 48, 1);
     color: #fff;
     font-size: large;
@@ -100,27 +109,29 @@ h3 {
 
 /*menu page image and cover text*/
 
-#cover-text, #h1 {
+.cover-text, h1 {
     color: #fff;
 }
 
-#cover-text {
+.cover-text {
+    background: rgb(64, 4, 66);
     background: rgba(233, 149, 121, .1);
     bottom: 20px;
-    font-size: 120%; 
+    font-size: 120%;
     height: 300px;
     position: absolute;
     text-align: center;
-    width: 750px;
+    width: 100%;
 }
 
 input[type=submit] {
+    background: rgb(64, 4, 66);
     background-color: #fff;
     border: none;
     border-radius: 5px;
     color: rgba(46, 2, 48, 1);
-    margin-top: 5px;
     margin-left: 0.75rem;
+    margin-top: 5px;
     padding: 0.75rem;    
 }
 
@@ -159,5 +170,11 @@ input[checkbox] {
     .aside {
         flex: 1;
 
+    }
+}
+
+@media (min-width: 200px) and (max-width: 850px) {
+    .footer {
+        position: unset;
     }
 }
