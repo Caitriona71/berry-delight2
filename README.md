@@ -1,8 +1,7 @@
-![Header Image](https://github.com/Caitriona71/berry-delight2/blob/main/assets/images/hero-image.webp)]
 # PROJECT 1 Berry Delight Frozen Yogurt Parlour
 Berry Delight is a site showcasing the business of a Frozen Yogurt Parlour. It's aim is to attract users who are searching for frozen yogurt desserts. The site will be used by users to access the menu, contact details, and competition page.
 
-![] (https://code-institute-room.slack.com/files/U03KMDGF0CU/F03RXF4RSQY/amiresponsive.png)
+![Am I Responsive](https://code-institute-room.slack.com/files/U03KMDGF0CU/F03RXF4RSQY/amiresponsive.png)
 
 This is the live site:  [Berry Delight](https://caitriona71.github.io/berry-delight2/)
 
