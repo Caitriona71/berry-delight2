@@ -1,8 +1,8 @@
-![Berry Delight](../images/hero-image.webp)
+![Header Image](../images/hero-image.webp)
 # PROJECT 1 Berry Delight Frozen Yogurt Parlour
-Berry Delight is a site showcasing the business of a Frozen Yogurt Parlour. It's aim is to attract users who are searching for frozen yogurt desserts. The site will be used by users to access the menu, contact details, and competition page.
-
-![Am I Responsive](https://ui.dev/amiresponsive?url=https://caitriona71.github.io/berry-delight2/)
+Berry Delight is a site showcasing the business of a Frozen Yogurt Parlour. It's aim is to attract users who are searching for frozen yogurt desserts. The site will be used by users to access the menu, contact details, and competition page.<br>
+<br>
+![Am I Responsive](/assets/screenshots/am-i-responsive.png)
 
 This is the live site:  [Berry Delight](https://caitriona71.github.io/berry-delight2/)
 
@@ -47,6 +47,7 @@ The last link on the navigation bar is a link to a page which enables the user t
 * [Gitpod](https://gitpod.io)
 * [GitHub](https://github.com)
 * [Balsamiq](https://balsamiq.com)
+* [CSS Portal RGBA Generator](https://www.cssportal.com/css3-rgba-generator/)
 
 ## Future Improvements
 
@@ -54,12 +55,26 @@ The last link on the navigation bar is a link to a page which enables the user t
 
 * A hamburger menu would be useful for mobiles.  
 
+* More images for menu page required.
+
 
 ## Validator Testing
 
-* Lighthouse - the site was tested for performance using Lighthouse.
-* Code Beautify - CSS was validated with Code Beautify.
-* W3C Validator - HTML was validated with W3C.
+* Lighthouse - the site was tested for performance using Lighthouse.<br>
+<br>
+![Lighthouse Performance](assets/screenshots/lighthouse-score.png)<br>
+<br>
+* W3C Validator - CSS was validated with W3C.<br>
+<br>
+![W3C Validator](assets/screenshots/w3c-css-validator.png)<br>
+<br>
+* W3C Validator - HTML was validated with W3C.<br>
+<br>
+![W3C Validator](assets/screenshots/nu-html-checker-index-page.png)<br>
+![W3C Validator](assets/screenshots/nu-html-checker-menu-page.png)<br>
+![W3C Validator](assets/screenshots/nu-html-checker-contact-us-page.png)<br>
+![W3C Validator](assets/screenshots/nu-html-checker-competition-page.png)
+
 (display screenshots)
 
 ## Deployment
