@@ -64,7 +64,7 @@ The last link on the navigation bar is a link to a page which enables the user t
 ## **Validator Testing**
 
 ### ***Lighthouse*** - the site was tested for performance using Lighthouse.<br>
-<br>
+
 ![Lighthouse Performance](/assets/screenshots/lighthouse-score.png)<br>
 
 ### ***W3C Validator*** - CSS was validated with W3C.<br>
@@ -72,13 +72,12 @@ The last link on the navigation bar is a link to a page which enables the user t
 ![W3C Validator](/assets/screenshots/w3c-css-validator.png)<br>
 
 ### ***W3C Validator*** - HTML was validated with W3C.<br>
-<br>
 ![W3C Validator](assets/screenshots/nu-html-checker-index-page.png)<br>
-<br>
+
 ![W3C Validator](assets/screenshots/nu-html-checker-menu-page.png)<br>
-<br>
+
 ![W3C Validator](assets/screenshots/nu-html-checker-contact-us-page.png)<br>
-<br>
+
 ![W3C Validator](assets/screenshots/nu-html-checker-competition-page.png)
 
 
