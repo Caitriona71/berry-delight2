@@ -51,7 +51,7 @@ The last link on the navigation bar is a link to a page which enables the user t
 * [GitHub](https://github.com)
 * [Balsamiq](https://balsamiq.com)
 * [CSS Portal RGBA Generator](https://www.cssportal.com/css3-rgba-generator/)
-<br>
+
 ## **Future Improvements**
 
 * Menu page would need prices included and this page would need to be regularly updated. 
