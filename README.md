@@ -1,19 +1,20 @@
 # **PROJECT 1 Berry Delight Frozen Yogurt Parlour**
 Berry Delight is a site showcasing the business of a Frozen Yogurt Parlour. It's aim is to attract users who are searching for frozen yogurt desserts. The site will be used by users to access the menu, contact details, and competition page.<br>
 <br>
+<br>
 ![Am I Responsive](/assets/screenshots/am-i-responsive.png)
 
 This is the live site:  [Berry Delight](https://caitriona71.github.io/berry-delight2/)
 
 ## **Features**
 The home page details information about the business and a list of suppliers. The menu page includes the various selection of frozen yogurt desserts, smoothies and drinks available, the contact us page displays a location map, contact details and business opening hours, and the competition page includes a form to fill out for a chance to win a Lego Frozen Yogurt Shop set, together with images of the prize.
+<br>
 
 ## **Existing Features**
 
 
 ### ***Navigation Bar***
 The fully responsive navigation bar is on all four pages of the site. It includes links to the home page, menu page, contact us page and a link to a competition page with a form to fill out to enter the competition. The navigation bar is identical on all four pages. The navigation bar allows for easy navigation from one page to the other across all devices. 
-
 
 ### ***Home Page***
 
@@ -34,12 +35,13 @@ On this page a location map has been included.  This is not the actual map locat
 ### ***Win Page***
 
 The last link on the navigation bar is a link to a page which enables the user to fill out a form in order to enter a competition to be in with a chance of winning a Lego Heartland Frozen Yogurt Shop set.  On this page, the user is asked to fill out their name and email address on the form and they are then asked which of the Berry Delight Frozen Yogurts is their favourite.  The form allows them to tick whichever checkbox pertains to their favourite.
-
+<br>
 
 ## **Technologies Used**
 
 * HTML5
 * CSS
+<br>
 
 ## **Frameworks, Libraries and Programmes Used**
 
@@ -49,7 +51,7 @@ The last link on the navigation bar is a link to a page which enables the user t
 * [GitHub](https://github.com)
 * [Balsamiq](https://balsamiq.com)
 * [CSS Portal RGBA Generator](https://www.cssportal.com/css3-rgba-generator/)
-
+<br>
 ## **Future Improvements**
 
 * Menu page would need prices included and this page would need to be regularly updated. 
@@ -61,14 +63,15 @@ The last link on the navigation bar is a link to a page which enables the user t
 
 ## **Validator Testing**
 
-***Lighthouse*** - the site was tested for performance using Lighthouse.<br>
+### ***Lighthouse*** - the site was tested for performance using Lighthouse.<br>
 <br>
 ![Lighthouse Performance](/assets/screenshots/lighthouse-score.png)<br>
-***3C Validator*** - CSS was validated with W3C.<br>
+
+### ***W3C Validator*** - CSS was validated with W3C.<br>
 
 ![W3C Validator](/assets/screenshots/w3c-css-validator.png)<br>
 
-***W3C Validator*** - HTML was validated with W3C.<br>
+### ***W3C Validator*** - HTML was validated with W3C.<br>
 <br>
 ![W3C Validator](assets/screenshots/nu-html-checker-index-page.png)<br>
 <br>
@@ -101,9 +104,10 @@ Flexbox Layout from YouTube
 
 ## **Acknowledgements**
 
-My mentor for his feedback. <br>
-Tutor Support at Code Institute. <br>
-My fellow students. <br>
+* My Course Facilitator for his helpful advice, guidance and encouragement.  <br>
+* My Mentor for his feedback. <br>
+* Tutor Support at Code Institute. <br>
+* My fellow students. <br>
 
 
 
