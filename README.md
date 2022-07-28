@@ -1,4 +1,4 @@
-![Header Image](assets/images/frozen-yogurts.jpg)
+![Image](assets/images/frozen-yogurts.jpg)
 # **PROJECT 1 Berry Delight Frozen Yogurt Parlour**
 Berry Delight is a site showcasing the business of a Frozen Yogurt Parlour. It's aim is to attract users who are searching for frozen yogurt desserts. The site will be used by users to access the menu, contact details, and competition page.<br>
 <br>
@@ -17,6 +17,7 @@ The fully responsive navigation bar is on all four pages of the site. It include
 
 
 ### ***Home Page***
+![Home Page](assets/screenshots/home-page-screenshot.png)
 
 The home page displays a header with a background image of the frozen yogurt parlour, the name of the business and when it was established.  Underneath the header there is information about the business story and their mission, a list of their local suppliers and an image of some of the frozen yogurts available.
 
